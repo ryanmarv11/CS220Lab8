@@ -1,0 +1,4 @@
+Allocationg 40 bytes...
+Successfully allocated at 0x55e708376670
+free()ing memory at 0x55e708376670...DONE
+
